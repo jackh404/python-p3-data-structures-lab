@@ -73,9 +73,9 @@ class TestDataStructures:
         new_spicy_foods = create_spicy_food(
            TestDataStructures.SPICY_FOODS,
             {
-                'name': 'Griot',
-                'cuisine': 'Haitian',
-                'heat_level': 10,
+                "name": "Griot",
+                "cuisine": "Haitian",
+                "heat_level": 10,
             }
         )
 
